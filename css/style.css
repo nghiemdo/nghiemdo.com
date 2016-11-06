@@ -1,0 +1,31 @@
+body {
+	background-color: #EEE;
+	font-family: 'Nunito', sans-serif;
+}
+
+.container-nghiem {
+	background-color: #fff;
+	padding: 15px;
+	max-width: 768px;
+	margin: auto ;
+}
+.center {
+    display: inline-block;
+    vertical-align : middle;
+    float: none;
+}
+.divider {
+    width:4px;
+    height:auto;
+    display:inline-block;
+}
+.hr-footer {
+    margin-bottom: -7px;    
+    padding-bottom: 0px;
+}
+img {
+  -webkit-filter: grayscale(1);
+}
+img:hover {
+  -webkit-filter: grayscale(0);
+}
