@@ -23,9 +23,3 @@ body {
     margin-bottom: -7px;    
     padding-bottom: 0px;
 }
-img {
-  -webkit-filter: grayscale(1);
-}
-img:hover {
-  -webkit-filter: grayscale(0);
-}
